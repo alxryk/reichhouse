@@ -1,0 +1,104 @@
+.gridContainer.clearfix #header div {
+	padding: 20px 0px 20px 0px;
+}
+
+.returntop {
+	text-align: center;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
+}
+.center {
+	clear: both;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: auto;
+	}
+.video {
+	clear: both;
+}
+
+
+.statement {
+	font-style: italic;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	color: #FFFFFF;
+	font-weight: lighter;
+	text-shadow: 0px 0px;
+	padding-top: 5px;
+	padding-left: 17px;
+	padding-right: 17px;
+	padding-bottom: 5px;
+	clear: both;
+	max-width: 900px;
+	margin-bottom: 23px;
+	text-align: justify;
+	background-color: none;
+	border-radius: 20px;
+	font-size: medium;
+}
+.videomargin {
+	margin-bottom: 22px;
+}
+.audiomargin {
+	margin-bottom: 12px;
+
+}
+.home {
+	max-width: 60px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	font-size: x-large;
+	clear: both;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 30px;
+	color: rgba(255,255,255,1.00);
+}
+
+}
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
+/* VideoJS - show poster, show play button, hide bottom controls */
+
+.video-js.vjs-ended .vjs-poster {
+display: block;
+}
+.video-js.vjs-ended .vjs-control-bar {
+  display: none;
+}
+.video-js.vjs-ended .vjs-big-play-button {
+  display: block;
+}
+
+/* VideoJS - END */
+.bold {
+	font-weight: bolder;
+}
+#seanceroom1 {
+	margin-left: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	float: right;
+}
+/* VideoJS - show poster, show play button, hide bottom controls */
+
+.video-js.vjs-ended .vjs-poster {
+display: block;
+}
+.video-js.vjs-ended .vjs-control-bar {
+  display: none;
+}
+.video-js.vjs-ended .vjs-big-play-button {
+  display: block;
+}
+
+/* VideoJS - END */
+.bold {
+	font-weight: bolder;
+}
