@@ -19,14 +19,14 @@
 	clear: both;
 }
 
-.container {
+.fb-container {
     position: relative;
     padding-bottom: 92%;
     height: 0;
     overflow: hidden;
 }
 
-container iframe {
+.fb-container iframe {
     position: absolute;
     top:0;
     left: 0;
