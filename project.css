@@ -59,7 +59,7 @@
 	color: rgba(255,255,255,1.00);
 }
 
-.fb_iframe_widget_fluid span, iframe.fb_ltr { 
+.fb-post { 
     width: 100% !important; 
 }
 
