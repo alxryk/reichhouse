@@ -17,21 +17,9 @@
 	}
 .video {
 	clear: both;
-}
 
-.fb-container {
-    position: relative;
-    padding-bottom: 92%;
-    height: 0;
-    overflow: hidden;
-}
 
-.fb-container iframe {
-    position: absolute;
-    top:0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+
 }
 
 .statement {
@@ -74,6 +62,10 @@
 }
 
 }
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
 /* VideoJS - show poster, show play button, hide bottom controls */
 
 .video-js.vjs-ended .vjs-poster {
@@ -95,20 +87,4 @@ display: block;
 	margin-bottom: 10px;
 	margin-top: 10px;
 	float: right;
-}
-/* VideoJS - show poster, show play button, hide bottom controls */
-
-.video-js.vjs-ended .vjs-poster {
-display: block;
-}
-.video-js.vjs-ended .vjs-control-bar {
-  display: none;
-}
-.video-js.vjs-ended .vjs-big-play-button {
-  display: block;
-}
-
-/* VideoJS - END */
-.bold {
-	font-weight: bolder;
 }
