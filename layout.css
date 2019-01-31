@@ -154,8 +154,8 @@ margin-left: 0;
 @media only screen and (min-width: 769px) {
 
 .gridContainer {
-	width: 88.2%;
-	max-width: 900px;
+	width: 94%;
+	max-width: 1024px;
 	padding-left: 0.9%;
 	padding-right: 0.9%;
 	margin-top: auto;
