@@ -37,13 +37,12 @@ img, object, embed, video {
 .gridContainer {
 	margin-left: auto;
 	margin-right: auto;
-	width: 95%;
+	width: 97%;
 	padding-left: 0%;
 	padding-right: 0%;
 	clear: both;
 	float: none;
 	padding-top: 0px;
-	margin-top: -12px;
 }
 
 #header {
@@ -57,19 +56,11 @@ img, object, embed, video {
 #content {
 	clear: both;
 	display: block;
-	color: #FFFFFF;
+	color: #999;
 	font-weight: normal;
-	font-size: 12pt;
-	background-color: rgba(0,0,0,0.65);
-	padding-top: 0px;
-	padding-bottom: 0px;
-	padding-right: 10px;
-	padding-left: 10px;
-	margin-bottom: 1px;
+	font-size: 11pt;;
 	margin-right: auto;
-	margin-top: 1px;
 	margin-left: auto;
-	border-radius: 12px;
 }
 
 #videos {
@@ -99,9 +90,10 @@ display: none;
 @media only screen and (min-width: 481px) {
 
 .gridContainer {
-	width: 90.675%;
+	width: 93%;
 	padding-left: 1.1625%;
 	padding-right: 1.1625%;
+	padding-top: 10px;
 }
 
 #header {
@@ -114,19 +106,13 @@ display: none;
 #content {
 	clear: both;
 	display: block;
-	color: #FFFFFF;
+	color: #999;
 	font-weight: normal;
 	font-size: 12pt;
-	background-color: rgba(0,0,0,0.65);
-	padding-top: 1px;
-	padding-bottom: 0px;
-	padding-right: 10px;
-	padding-left: 10px;
+	margin-top: 1px;
 	margin-bottom: 1px;
 	margin-right: auto;
-	margin-top: 1px;
 	margin-left: auto;
-	border-radius: 12px;
 }
 
 #videos {
@@ -155,7 +141,7 @@ margin-left: 0;
 
 .gridContainer {
 	width: 94%;
-	max-width: 1024px;
+	max-width: 1000px;
 	padding-left: 0.9%;
 	padding-right: 0.9%;
 	margin-top: auto;
@@ -178,19 +164,13 @@ margin-left: 0;
 #content {
 	clear: both;
 	display: block;
-	color: #FFFFFF;
+	color: #999;
 	font-weight: normal;
 	font-size: 12pt;
-	background-color: rgba(0,0,0,0.65);
-	padding-top: 1px;
-	padding-bottom: 0px;
-	padding-right: 10px;
-	padding-left: 10px;
+	margin-top: 1px;
 	margin-bottom: 1px;
 	margin-right: auto;
-	margin-top: 1px;
 	margin-left: auto;
-	border-radius: 12px;
 }
 
 #videos {
